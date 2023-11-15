@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.boostware.inventoryservice.InventoryServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.847 s - in com.boostware.inventoryservice.InventoryServiceApplicationTests

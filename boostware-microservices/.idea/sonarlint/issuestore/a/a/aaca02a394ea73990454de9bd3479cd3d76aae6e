@@ -1,0 +1,11 @@
+
+V	java:S125U"<This block of commented-out lines of code should be removed.(­¦ıÿÿÿÿ
+o
+java:S33052"YInject this field value directly into "userDetailsService", the only method that uses it.( ØæÒ
+B
+java:S1602F",Remove useless curly braces around statement( ¡¶Ÿ
+v
+java:S1128
+"`Remove this unused import 'org.springframework.boot.autoconfigure.security.servlet.PathRequest'.(üÂè§
+6
+java:S1110k"!Remove these useless parentheses.(Óûò

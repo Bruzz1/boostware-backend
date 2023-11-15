@@ -1,0 +1,8 @@
+com\boostware\productservice\model\Product.class
+com\boostware\productservice\repository\ProductRepository.class
+com\boostware\productservice\ProductServiceApplication.class
+com\boostware\productservice\service\ProductService.class
+com\boostware\productservice\dto\ProductRequest.class
+com\boostware\productservice\model\Product$ProductBuilder.class
+com\boostware\productservice\dto\ProductResponse.class
+com\boostware\productservice\controller\ProductController.class

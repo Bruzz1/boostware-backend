@@ -1,0 +1,8 @@
+
+f
+java:S1128
+"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8Œ‚Ö±¶1
+h
+java:S1128"KRemove this unused import 'org.apache.hc.core5.concurrent.CompletedFuture'.(ñû»‰8 õŠ²¶1
+H
+java:S1172"&Remove these unused method parameters.(îÁ»…øÿÿÿÿ8âå´±¶1
